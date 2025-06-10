@@ -1,7 +1,7 @@
 # Few_Shot_Learning_with_LLM-s
 🤖 Interactive Streamlit app for exploring Few-Shot Learning with LLMs. Features hands-on demos, performance analysis, and educational content for understanding prompt engineering and AI capabilities. 
 
-## [Live Demo](https://few-shot-learning-with-llms-vperbxi7x3mwmqqee9ssn2.streamlit.app/)
+## [Live Demo](https://fewshotlearningwithllms.streamlit.app/)
 
 # 🤖 Few-Shot Learning with Large Language Models
 
@@ -354,7 +354,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**[Live Demo](https://few-shot-learning-with-llms-vperbxi7x3mwmqqee9ssn2.streamlit.app/) • [Documentation](docs/) • [Examples](examples/) • [Contributing](CONTRIBUTING.md)**
+**[Live Demo](https://fewshotlearningwithllms.streamlit.app/) • [Documentation](docs/) • [Examples](examples/) • [Contributing](CONTRIBUTING.md)**
 
 ### 🌟 If you find this project helpful, please consider giving it a star!
 
