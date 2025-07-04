@@ -85,7 +85,7 @@ Few-shot learning is a breakthrough capability in modern Large Language Models t
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/few-shot-learning-llms.git
+   git clone https://github.com/navinaamuthan/few-shot-learning-llms.git
    cd few-shot-learning-llms
    ```
 
@@ -307,14 +307,6 @@ We welcome contributions from the community! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for complete details.
 
-### **What this means:**
-- ✅ Commercial use allowed
-- ✅ Modification allowed
-- ✅ Distribution allowed
-- ✅ Private use allowed
-- ❌ No warranty provided
-- ❌ No liability accepted
-
 ## 🙏 Acknowledgments
 
 ### **Inspiration & References**
@@ -336,11 +328,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 💬 Join discussions in [GitHub Discussions](https://github.com/navinaamuthan/few-shot-learning-llms/discussions)
 - 📧 Email: navinagamuthan@gmail.com
 
-### **Community**
-- Follow updates on social media
-- Join our newsletter for educational content
-- Participate in community discussions
-- Share your use cases and experiences
 
 ## 📈 Project Statistics
 
@@ -358,7 +345,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🌟 If you find this project helpful, please consider giving it a star!
 
-*Made with ❤️ for the AI education community*
+*Made with love for the AI education community*
 
 </div>
 
